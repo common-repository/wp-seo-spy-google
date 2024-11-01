@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seo spy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-24 18:26+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __(;e_(;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-seospy.php:85
+msgid "Se inició <b>Actualizar</b>."
+msgstr "<b>Update</b> initialized."
+
+#: wp-seospy.php:186
+msgid "Clasificación en Google"
+msgstr "Google clasification"
+
+#: wp-seospy.php:191
+msgid "Palabra clave"
+msgstr "Keyword"
+
+#: wp-seospy.php:192
+msgid "URL"
+msgstr "URL"
+
+#: wp-seospy.php:193
+msgid "Semana pasada"
+msgstr "Last Week"
+
+#: wp-seospy.php:194
+msgid "Ayer"
+msgstr "Yesterday"
+
+#: wp-seospy.php:195
+msgid "Hoy"
+msgstr "Today"
+
+#: wp-seospy.php:211
+msgid "<p><b>Actualizar</b> con demasiada frecuencia puede conducir a <b>problemas</b>!</p>"
+msgstr "<p><b>Update</b> too often can lead to <b>problems</b>!</p>"
+
+#: wp-seospy.php:212
+msgid "Update"
+msgstr "Update"
+
+#: wp-seospy.php:223
+msgid "Opciones actualizadas."
+msgstr "Options updated"
+
+#: wp-seospy.php:237
+msgid "Error del otro servidor."
+msgstr "Error to other server."
+
+#: wp-seospy.php:257
+msgid "Seo Spy Opciones"
+msgstr "Seo Spy Options"
+
+#: wp-seospy.php:260
+msgid "Palabras clave"
+msgstr "Keywords"
+
+#: wp-seospy.php:262
+msgid "Palabras clave para comprobar:"
+msgstr "Keywords to check:"
+
+#: wp-seospy.php:263
+msgid "(Palabras múltiples claves separadas por comas.) </p><p>Cada una de estas palabras clave será leída por cada URL única, por lo que se puede comparar el ranking de Google con otros sitios web.</p><p><b>Se pueden definir como máximo 6 palabras clave.</b></p>"
+msgstr "(Multiple key words separated by commas.)</p><p>Each of these keywords will be read by every single URL, so you can compare Google ranking to other websites.</p><p><b>You can define a maximum of 6 keywords.</b></p>"
+
+#: wp-seospy.php:266
+msgid "URLs"
+msgstr "URLs"
+
+#: wp-seospy.php:268
+msgid "URLs para comprobar:"
+msgstr "URLs to check:"
+
+#: wp-seospy.php:269
+msgid "(URLs separadas por comas.)</p><p> La URL tiene que ser introducido por el patrón o subdomain.domain.com domain.com.</p><p><b>Se pueden definir como máximo 6 URLs.(SE RECOMIENDA 1)</b></p>"
+msgstr "(URLs separated by commas.)</p><p> The URL must be entered by the employer or subdomain.domain.com domain.com.</p><p>You can define a maximum 6 URLs.<b>(RECOMMENDED 1)</b></p>"
+
+#: wp-seospy.php:275
+msgid "Google Server:"
+msgstr "Google Server:"
+
+#: wp-seospy.php:280
+msgid "otro server:"
+msgstr "other server:"
+
+#: wp-seospy.php:282
+msgid "Patrón de otro servidor: google.xxx (google.nl, google.ch...)"
+msgstr "Pattern from another server: google.xxx (google.nl, google.ch...)"
+
+#: wp-seospy.php:283
+msgid "Seleccione su servidor de Google favorito."
+msgstr "Select your favorite Google server."
+
+#: wp-seospy.php:288
+msgid "Guardar"
+msgstr "Save"
+
+#: wp-seospy.php:294
+msgid "Actualizar ahora!"
+msgstr "Update now!"
+
+#: wp-seospy.php:297
+msgid "<p>Los datos de palabra clave se recomiendan actualizar manualmente, cada 24 horas. Si cambia las palabras clave o URL, deberá provocar una actualización inmediata.</p><p><b>Actualizar con demasiada frecuencia puede conducir a problemas!</b></p>"
+msgstr "<p>Keyword data is recommended to manually update every 24 hours. If you change the keyword or URL, will cause an immediate update.</p><p><b>Updating too often may lead to problems!</b></p>"
+
+#: wp-seospy.php:305
+msgid "Acerca de Seo Spy"
+msgstr "About Seo Spy"
+
+#: wp-seospy.php:307
+msgid "Seo Spy le ayuda a realizar un seguimiento de su posicionamiento en Google."
+msgstr "Seo Spy helps you track your rankings on Google."
+
+#: wp-seospy.php:307
+msgid " En el <b>Escritorio</b> encontrará las estadísticas diarias actuales y el botón para actualizar."
+msgstr "In the <b>desk</b> find the current daily statistics and the refresh button."
+
+#: wp-seospy.php:311
+msgid "Donar!!"
+msgstr "Donate!!"
+
+#: wp-seospy.php:313
+msgid "Mucho trabajo se ha puesto en el desarrollo de la Seo Spy."
+msgstr "Much work has been the development of Seo Spy."
+
+#: wp-seospy.php:313
+msgid " Si usted quiere asegurarse de que la Vigía Seo queda libre, por favor considere hacer una donación."
+msgstr "If you want to make sure Seo Watcher is free, please consider making a donation."
+
+#: wp-seospy.php:325
+msgid "Por qué puedo definir tan pocas palabras?"
+msgstr "Why I can define as few words?"
+
+#: wp-seospy.php:327
+msgid "Esta limitación está puesta para su protección. Si hay demasiadas solicitudes de búsqueda enviadas a Google por una misma IP, puede ocurrir, que Google bloquee la IP por un tiempo. Por lo tanto, más vale prevenir que curar."
+msgstr "This limitation is set for protection. If too many search requests sent to Google by the same IP, it may be that Google block the IP for a while. Therefore, prevention is better than cure."
+
+#: wp-seospy.php:332
+msgid "Cuándo se actualizan los datos?"
+msgstr "When the data updated?"
+
+#: wp-seospy.php:335
+msgid "La tarea de actualización manual se recomienda ejecutar todos los días a medianoche."
+msgstr "The task of manually updating is recommended to run every day at midnight."
+
+#: wp-seospy.php:347
+msgid "Seo Spy"
+msgstr "Seo Spy"
+
+#: wp-seospy.php:353
+msgid "Seo Spy - Options"
+msgstr "Seo Spy - Options"
+
